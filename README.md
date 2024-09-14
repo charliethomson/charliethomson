@@ -1,6 +1,6 @@
 ## Charlie Thomson
 
-🚀 Full stack web developer @ [co-op solutions](https://co-opfs.org)
+🚀 Full stack web developer @ [velera](https://velera.com)
 
 🦀 Rust
 
